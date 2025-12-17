@@ -7,3 +7,9 @@ Hello there! My name is Theodor. <br><br>Software & Game Developer student with 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/theodor-k-b181402b2/) 
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SirBucketT&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+---
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
