@@ -8,6 +8,9 @@ Hello there! My name is Theodor. <br><br>Software & Game Developer student with 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/theodor-k-b181402b2/) 
 
+## 🌐 My Website & Portfolio:
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=world&logoColor=white)](https://theodorkvarnstrom.se/)
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SirBucketT&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
