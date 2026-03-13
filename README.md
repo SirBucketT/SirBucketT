@@ -6,7 +6,8 @@ My work for School on Cloud Asia includes **Pixel: Chat Guardian** (developed as
 
 <br><br>🏫 **Education:** Forsbergs skola.<br>🌎 Location: Stockholm, Sweden. 
 <br>🏎️ **Interests:** Cars and car culture, photography, and Gunpla building.
-<br>👯 **Collaboration:** I’m looking to collaborate on Game UI/UX, Game programming, and C# systems.
+<br>👯 **Collaboration:** I’m looking to collaborate on Game UI/UX, Game programming, C# systems & general Game Design.
+<br>👯 **Collaboration:** I’m looking to collaborate on **UI/UX, Game programming, C# systems and Game Design** or Flutter app development.
 <br>💬 **Ask me about:** B-movies (the "so-bad-it's-good" kind), the universe, and everything. It's 42 by the way. <br>
 
 ### 🛠️ Tech Stack:
