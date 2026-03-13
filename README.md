@@ -4,9 +4,10 @@ I am a **Technical Designer & Programmer** based in Stockholm, currently studyin
 
 My work for School on Cloud Asia includes **Pixel: Chat Guardian** (developed as an internship application test & shown at **IMDA** in Singapore) and a current unannounced Unity project designed to aid children with learning disabilities, where we leverage external APIs like **Google STT** and AI voices from **ElevenLabs**.
 
+🎥 You can view [**Pixel: Chat Guardian** at IMDA](https://www.linkedin.com/posts/school-on-cloud-asia_bekindonlinewithpixel-schooloncloud-schoolofconcepts-activity-7390356966440599552-Plwi?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEsgdkQBCoZdj8KKyls9Fw_5bw2InsgCB0M) on the company's LinkedIn profile.
+
 <br><br>🏫 **Education:** Forsbergs skola.<br>🌎 Location: Stockholm, Sweden. 
 <br>🏎️ **Interests:** Cars and car culture, photography, and Gunpla building.
-<br>👯 **Collaboration:** I’m looking to collaborate on Game UI/UX, Game programming, C# systems & general Game Design.
 <br>👯 **Collaboration:** I’m looking to collaborate on **UI/UX, Game programming, C# systems and Game Design** or Flutter app development.
 <br>💬 **Ask me about:** B-movies (the "so-bad-it's-good" kind), the universe, and everything. It's 42 by the way. <br>
 
