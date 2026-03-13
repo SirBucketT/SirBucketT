@@ -1,4 +1,4 @@
-Hello there! My name is Theodor. <br><br>
+### Hello there! My name is Theodor. <br><br>
 
 I am a **Technical Designer & Programmer** based in Stockholm, currently studying at **Forsbergs skola** and interning remotely at **School on Cloud Asia Pte Ltd (Singapore)**. <br>
 
